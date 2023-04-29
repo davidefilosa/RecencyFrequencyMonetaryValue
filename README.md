@@ -1,4 +1,6 @@
 # Recency Frequency Monetary Value
+## [Detailed Project](https://nbviewer.org/github/davidefilosa/RecencyFrequencyMonetaryValue/blob/master/RFM.ipynb)
+
 
 One of the most common methods for companies to segment their customers is a value-based approach.
 
